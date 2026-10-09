@@ -1,0 +1,6 @@
+{
+  "name": "চাঁদা হিসাব",
+  "description": "চাঁদা ও তহবিল সংগ্রহ, সদস্য বকেয়া ও আয়-ব্যয় হিসাবের সম্পূর্ণ অফলাইন অ্যাপ",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
